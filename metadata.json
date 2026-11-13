@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Cromático",
+  "description": "Estudio curatorial para transformar fotografías en movimientos artísticos reconocidos mediante filtros procedurales preconfigurados y adaptación cromática por inteligencia artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
